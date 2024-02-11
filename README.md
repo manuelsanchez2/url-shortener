@@ -52,7 +52,3 @@ npm run dev
 ## 🔑 Get your environmental variables
 
 Before being able to initialize the application, check the `.env.example` file. Duplicate it and rename the copy to `.env` and apply there the right variables.
-
-```
-
-```
