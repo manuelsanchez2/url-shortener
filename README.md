@@ -2,12 +2,12 @@
 
 <img src="./public/app.png" width="425" />
 
-# Nextjs Url Shortener (minLink)
+# Nextjs Url Shortener (mswebLink)
 
 </div>
 
 <div align="center">
-    <a href="https://minlink.vercel.app/" target="_blank">
+    <a href="https://msweb-link.vercel.app/" target="_blank">
         Live
     </a>
     <span>&nbsp;✦&nbsp;</span>
